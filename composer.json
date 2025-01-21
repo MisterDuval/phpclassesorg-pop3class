@@ -1,0 +1,11 @@
+{
+	"autoload":
+	{
+		"classmap": ["pop3.php"]
+	}
+,
+	"require": 
+	{
+		"phpclasses/sasl": "1.0.2",
+		"phpclasses/mimeparser": "1.88"
+	}}
