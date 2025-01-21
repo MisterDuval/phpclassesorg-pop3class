@@ -7,7 +7,7 @@
 	"minimum-stability": "dev",
 	"require": 
 	{
-		"php": ">=7.4"
+		"php": ">=7.4",
 		"misterduval/phpclassesorg-sasl": "dev-master",
 		"misterduval/phpclassesorg-mimeparser": "dev-master"
 	}
