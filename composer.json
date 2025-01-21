@@ -1,4 +1,5 @@
 {
+	"name" : "misterduval/phpclassesorg-pop3class",
 	"autoload":
 	{
 		"classmap": ["pop3.php"]
