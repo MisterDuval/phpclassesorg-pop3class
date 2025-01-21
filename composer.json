@@ -10,5 +10,7 @@
 		"php": ">=7.4",
 		"misterduval/phpclassesorg-sasl": "dev-master",
 		"misterduval/phpclassesorg-mimeparser": "dev-master"
+	}, "config": {
+    		"minimum-stability": "dev"
 	}
 }
