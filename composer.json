@@ -6,6 +6,6 @@
 ,
 	"require": 
 	{
-		"phpclasses/sasl": "1.0.2",
-		"phpclasses/mimeparser": "1.88"
+		"MisterDuval/phpclassesorg-sasl": "1.0.2",
+		"MisterDuval/phpclassesorg-mimeparser": "1.88"
 	}}
