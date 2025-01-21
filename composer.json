@@ -3,10 +3,12 @@
 	"autoload":
 	{
 		"classmap": ["pop3.php"]
-	}
-,
+	},
+	"minimum-stability": "dev",
 	"require": 
 	{
+		"php": ">=7.4"
 		"misterduval/phpclassesorg-sasl": "dev-master",
 		"misterduval/phpclassesorg-mimeparser": "dev-master"
-	}}
+	}
+}
